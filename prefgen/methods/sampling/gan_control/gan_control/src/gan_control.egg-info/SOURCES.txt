@@ -1,0 +1,9 @@
+setup.py
+gan_control/__init__.py
+gan_control/make_attributes_df.py
+gan_control/train_controller.py
+gan_control/train_generator.py
+gan_control.egg-info/PKG-INFO
+gan_control.egg-info/SOURCES.txt
+gan_control.egg-info/dependency_links.txt
+gan_control.egg-info/top_level.txt

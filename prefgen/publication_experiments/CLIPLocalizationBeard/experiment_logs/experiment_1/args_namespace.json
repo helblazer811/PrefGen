@@ -1,0 +1,23 @@
+{
+    "num_trials": 10,
+    "num_queries": 5,
+    "device": "cuda",
+    "target_attributes": null,
+    "noise_constant": 10.0,
+    "information_decay": 1.0,
+    "query_selector": "mcmv",
+    "noise_model": "constant",
+    "linear_decay": false,
+    "linear_decay_rate": 0.0,
+    "prior_distribution": "uniform",
+    "wandb_logging": true,
+    "extended_latent": true,
+    "w_space_latent": true,
+    "use_adam_sampler": true,
+    "latent_sample_caching": true,
+    "verbose_logging": false,
+    "use_jax_sampling": false,
+    "sample_distant_attribute": false,
+    "wandb_group_name": "CLIP Localization",
+    "save_directory": null
+}

@@ -1,0 +1,94 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.9
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.15
+    start_time: 1678264055.204007
+    t:
+      1:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      3:
+      - 16
+      - 23
+      4: 3.9.15
+      5: 0.13.9
+      8:
+      - 5
+device:
+  desc: null
+  value: cuda
+extended_latent:
+  desc: null
+  value: true
+information_decay:
+  desc: null
+  value: 1.0
+latent_sample_caching:
+  desc: null
+  value: true
+linear_decay:
+  desc: null
+  value: false
+linear_decay_rate:
+  desc: null
+  value: 0.0
+noise_constant:
+  desc: null
+  value: 10.0
+noise_model:
+  desc: null
+  value: constant
+num_queries:
+  desc: null
+  value: 5
+num_trials:
+  desc: null
+  value: 10
+prior_distribution:
+  desc: null
+  value: uniform
+query_selector:
+  desc: null
+  value: mcmv
+sample_distant_attribute:
+  desc: null
+  value: false
+save_directory:
+  desc: null
+  value: null
+target_attributes:
+  desc: null
+  value: null
+use_adam_sampler:
+  desc: null
+  value: true
+use_jax_sampling:
+  desc: null
+  value: false
+verbose_logging:
+  desc: null
+  value: false
+w_space_latent:
+  desc: null
+  value: true
+wandb_group_name:
+  desc: null
+  value: CLIP Localization
+wandb_logging:
+  desc: null
+  value: true

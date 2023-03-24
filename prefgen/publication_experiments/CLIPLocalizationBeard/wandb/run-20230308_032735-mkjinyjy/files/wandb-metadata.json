@@ -1,0 +1,165 @@
+{
+    "os": "Linux-3.10.0-1160.49.1.el7.x86_64-x86_64-with-glibc2.17",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-03-08T08:27:35.849259",
+    "startedAt": "2023-03-08T08:27:35.187667",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/storage/coda1/p-crozell3/0/ahelbling6/gan-oracle-guidance/gan_search/publication_experiments/CLIPLocalizationBeard/main_age_surprised_beard.py",
+    "codePath": "gan_search/publication_experiments/CLIPLocalizationBeard/main_age_surprised_beard.py",
+    "git": {
+        "remote": "git@github.com:helblazer811/gan-oracle-guidance.git",
+        "commit": "0e94f9aedefe860876b93d4b3179c143687aa664"
+    },
+    "email": "alechelbling1@gmail.com",
+    "root": "/storage/coda1/p-crozell3/0/ahelbling6/gan-oracle-guidance",
+    "host": "atl1-1-02-004-31-0.pace.gatech.edu",
+    "username": "ahelbling6",
+    "executable": "/storage/home/hcoda1/9/ahelbling6/.conda/envs/gog-spring/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 2.697624999999999,
+        "min": 1200.0,
+        "max": 2700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.7,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.7,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.7,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.7,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.7,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.7,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.7,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.661,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.699,
+            "min": 1200.0,
+            "max": 2700.0
+        },
+        {
+            "current": 2.697,
+            "min": 1200.0,
+            "max": 2700.0
+        }
+    ],
+    "disk": {
+        "total": 49.9755859375,
+        "used": 17.168964385986328
+    },
+    "gpu": "Quadro RTX 6000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Quadro RTX 6000",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 376.3401908874512
+    }
+}

@@ -1,0 +1,26 @@
+2023-03-08 03:27:35,194 INFO    MainThread:181264 [wandb_setup.py:_flush():68] Configure stats pid to 181264
+2023-03-08 03:27:35,194 INFO    MainThread:181264 [wandb_setup.py:_flush():68] Loading settings from /storage/home/hcoda1/9/ahelbling6/.config/wandb/settings
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_setup.py:_flush():68] Loading settings from /storage/coda1/p-crozell3/0/ahelbling6/gan-oracle-guidance/gan_search/publication_experiments/CLIPLocalizationBeard/wandb/settings
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'gan_search/publication_experiments/CLIPLocalizationBeard/main_age_surprised_beard.py', 'program': '/storage/coda1/p-crozell3/0/ahelbling6/gan-oracle-guidance/gan_search/publication_experiments/CLIPLocalizationBeard/main_age_surprised_beard.py'}
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_init.py:_log_setup():478] Logging user logs to /storage/coda1/p-crozell3/0/ahelbling6/gan-oracle-guidance/gan_search/publication_experiments/CLIPLocalizationBeard/wandb/run-20230308_032735-mkjinyjy/logs/debug.log
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_init.py:_log_setup():479] Logging internal logs to /storage/coda1/p-crozell3/0/ahelbling6/gan-oracle-guidance/gan_search/publication_experiments/CLIPLocalizationBeard/wandb/run-20230308_032735-mkjinyjy/logs/debug-internal.log
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_init.py:init():518] calling init triggers
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {'num_trials': 10, 'num_queries': 5, 'device': 'cuda', 'target_attributes': None, 'noise_constant': 10.0, 'information_decay': 1.0, 'query_selector': 'mcmv', 'noise_model': 'constant', 'linear_decay': False, 'linear_decay_rate': 0.0, 'prior_distribution': 'uniform', 'wandb_logging': True, 'extended_latent': True, 'w_space_latent': True, 'use_adam_sampler': True, 'latent_sample_caching': True, 'verbose_logging': False, 'use_jax_sampling': False, 'sample_distant_attribute': False, 'wandb_group_name': 'CLIP Localization', 'save_directory': None}
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_init.py:init():571] starting backend
+2023-03-08 03:27:35,195 INFO    MainThread:181264 [wandb_init.py:init():575] setting up manager
+2023-03-08 03:27:35,199 INFO    MainThread:181264 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-03-08 03:27:35,203 INFO    MainThread:181264 [wandb_init.py:init():582] backend started and connected
+2023-03-08 03:27:35,206 INFO    MainThread:181264 [wandb_init.py:init():670] updated telemetry
+2023-03-08 03:27:35,416 INFO    MainThread:181264 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2023-03-08 03:27:35,694 INFO    MainThread:181264 [wandb_run.py:_on_init():2121] communicating current version
+2023-03-08 03:27:35,821 INFO    MainThread:181264 [wandb_run.py:_on_init():2125] got version response upgrade_message: "wandb version 0.13.11 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-03-08 03:27:35,821 INFO    MainThread:181264 [wandb_init.py:init():758] starting run threads in backend
+2023-03-08 03:27:55,846 INFO    MainThread:181264 [wandb_run.py:_console_start():2101] atexit reg
+2023-03-08 03:27:55,847 INFO    MainThread:181264 [wandb_run.py:_redirect():1959] redirect: SettingsConsole.WRAP_RAW
+2023-03-08 03:27:55,847 INFO    MainThread:181264 [wandb_run.py:_redirect():2024] Wrapping output streams.
+2023-03-08 03:27:55,847 INFO    MainThread:181264 [wandb_run.py:_redirect():2046] Redirects installed.
+2023-03-08 03:27:55,847 INFO    MainThread:181264 [wandb_init.py:init():798] run started, returning control to user process
+2023-03-08 03:44:44,181 WARNING MsgRouterThr:181264 [router.py:message_loop():77] message_loop has been closed

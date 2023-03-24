@@ -1,0 +1,2 @@
+python main_stan --save_directory experiment_logs/experiment_1
+cp experiment_logs/experiment_1/trial_0/localization_with_queries.pdf plotting/localization_with_queries.pdf

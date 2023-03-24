@@ -1,0 +1,11 @@
+Random flip chance: 0.0
+Noise constant: 9.412049293518066
+
+Random flip chance: 0.1
+Noise constant: 7.722449779510498
+
+Random flip chance: 0.2
+Noise constant: 0.10000000149011612
+
+Random flip chance: 0.2
+Noise constant: 0.10000000149011612

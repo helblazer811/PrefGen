@@ -1,0 +1,10 @@
+python make_dataset_with_gan_control.py
+python train.py
+
+python evaluate_lstm_performance.py
+python evaluate_mcmv_performance.py
+python evaluate_random_mcmc_performance.py
+
+python plot_performance_comparison.py
+python plot_image_samples.py
+python measure_key_metrics.py
