@@ -1,5 +1,6 @@
 # PrefGen: Preference Guided Image Generation with Relative Attributes
-This is the code for the paper "PrefGen: Preference Guided Image Generation with Relative Attributes". 
+This is the code for the paper ["PrefGen: Preference Guided Image Generation with Relative Attributes"](https://arxiv.org/abs/2304.00185).
+Link here: https://arxiv.org/abs/2304.00185. 
 
 ![Explanatory Figure](images/ExplanatoryFigure.jpg)
 
@@ -44,5 +45,12 @@ Inside of the PrefGen directory (the directory with setup.py), run the following
 ## Citation
 
 ```
-    Bibtex here
+@misc{helbling2023prefgen,
+    title={PrefGen: Preference Guided Image Generation with Relative Attributes},
+    author={Alec Helbling and Christopher J. Rozell and Matthew O'Shaughnessy and Kion Fallah},
+    year={2023},
+    eprint={2304.00185},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 ```
